@@ -1,0 +1,47 @@
+{
+    "token":"NPW9PZ63yqvOtf6RRmky8iNy",
+    "team_id":"T02J2MGE80K",
+    "api_app_id":"A02J1PHN10E",
+    "event":{
+       "client_msg_id":"a69a603d-b711-480c-aebd-5b9c230c03a8",
+       "type":"message",
+       "text":"hi prabha oru paithiyam",
+       "user":"U02JSBC1P2L",
+       "ts":"1634646143.014900",
+       "team":"T02J2MGE80K",
+       "blocks":[
+          {
+             "type":"rich_text",
+             "block_id":"5l4E",
+             "elements":[
+                {
+                   "type":"rich_text_section",
+                   "elements":[
+                      {
+                         "type":"text",
+                         "text":"hi prabha oru paithiyam"
+                      }
+                   ]
+                }
+             ]
+          }
+       ],
+       "channel":"C02J5HM1FC5",
+       "event_ts":"1634646143.014900",
+       "channel_type":"channel"
+    },
+    "type":"event_callback",
+    "event_id":"Ev02JBCJTLG4",
+    "event_time":1634646143,
+    "authorizations":[
+       {
+          "enterprise_id":"None",
+          "team_id":"T02J2MGE80K",
+          "user_id":"U02J1PVF8F8",
+          "is_bot":true,
+          "is_enterprise_install":false
+       }
+    ],
+    "is_ext_shared_channel":false,
+    "event_context":"4-eyJldCI6Im1lc3NhZ2UiLCJ0aWQiOiJUMDJKMk1HRTgwSyIsImFpZCI6IkEwMkoxUEhOMTBFIiwiY2lkIjoiQzAySjVITTFGQzUifQ"
+ }
