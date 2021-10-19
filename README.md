@@ -1,1 +1,1 @@
-# Slackbot
+# Sample Slackbot code to send notification
